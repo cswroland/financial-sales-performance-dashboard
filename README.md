@@ -1,5 +1,9 @@
 # Financial Sales Performance & Profitability Dashboard
 
+## 🔗 Project Files
+- [Dashboard Screenshot](screenshot/dashboard.png)
+- [Power BI Dashboard](Power_BI/Financial_Sales_Performance_Dashboard.pbix)
+
 ## 📊 Project Overview
 
 This project analyzes sales performance, profitability, discounts, country performance, product performance, and loss-making transactions using an interactive Power BI dashboard.
