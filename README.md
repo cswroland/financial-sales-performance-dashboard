@@ -20,6 +20,39 @@ The objective is to transform raw financial data into actionable business insigh
 - Investigate major contributors to losses
 - Provide recommendations for management
 
+## 📊 Featured Project
+
+### Financial Sales Performance & Profitability Dashboard
+
+An interactive financial analytics project built to analyze sales performance, profitability, discounts, country performance, product performance, and loss-making transactions.
+
+**Key results:**
+
+- Total Sales: 118.73M
+- Total Profit: 16.89M
+- Profit Margin: 14.23%
+- Total Discounts: 9.21M
+- Highest Profit: France — 3.78M
+- Highest Profit Margin: Germany — 15.66%
+- Highest Total Loss: Canada — 164,488.75
+
+**Tools:**
+
+Power BI | Power Query | DAX | Excel | HTML | JavaScript
+
+**What I demonstrated:**
+
+- Financial data analysis
+- Data transformation
+- KPI development
+- Interactive dashboard design
+- Profitability analysis
+- Loss analysis
+- Business recommendations
+
+🔗 **View the Project:**
+https://github.com/cswroland/financial-sales-performance-dashboard
+
 ## 🗂 Dataset
 
 - 701 rows
