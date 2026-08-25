@@ -1,7 +1,7 @@
 # Financial Sales Performance & Profitability Dashboard
 
 ## 🔗 Project Files
-- [Dashboard Screenshot](screenshot/dashboard.png)
+- [Dashboard Screenshot](screenshot/dashboard.JPEG)
 - [Power BI Dashboard](Power_BI/Financial_Sales_Performance_Dashboard.pbix)
 
 ## 📊 Project Overview
